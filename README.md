@@ -1,16 +1,16 @@
 ## Hi 👋, I'm Marfat
-#### Web Developer & Tech Support Specialist
-![Technical Support Engineer & Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEpJyD2DOKDfw/profile-displaybackgroundimage-shrink_350_1400/0/1635408851644?e=1640822400&v=beta&t=iPlZPumOQZfbfTJkZV2tMySSeluvcawgLviCqkCbvdk)
+#### Front End Developer
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEpJyD2DOKDfw/profile-displaybackgroundimage-shrink_350_1400/0/1635408851644?e=1640822400&v=beta&t=iPlZPumOQZfbfTJkZV2tMySSeluvcawgLviCqkCbvdk)
 
-I'm WordPress Developer & Technical support Engineer.
+I'm Front End Web Developer.
 
-Skills: Technical Support / WordPress / JS / HTML / CSS/ PHP
+Skills: JS / HTML / CSS / React.JS / Next.JS
 
-- 🔭 I’m currently working on WordPress 
-- 🌱 I’m currently learning App Development 
+- 🔭 I’m currently working on Front End Development 
+- 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Developer 
-- 💬 Ask me about Wordpress 
+- 💬 Ask me about React 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marfatislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marfatislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/cse.marfat)  
