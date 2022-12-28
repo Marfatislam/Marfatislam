@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Marfat
-#### Front End Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEpJyD2DOKDfw/profile-displaybackgroundimage-shrink_350_1400/0/1635408851644?e=1640822400&v=beta&t=iPlZPumOQZfbfTJkZV2tMySSeluvcawgLviCqkCbvdk)
+#### Front End Web Developer.
 
-I'm Front End Web Developer.
 
 Skills: JS / HTML / CSS / React.JS / Next.JS
 
